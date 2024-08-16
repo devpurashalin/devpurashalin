@@ -1,6 +1,5 @@
 # Welcome to My GitHub Profile!
 
-<img src="https://github.com/devpurashalin/devpurashalin/blob/main/Shalin.jpg" alt="Header Image" width="300">
 
 ## 👋 Hello, I'm [Shalin Devpura]!
 
