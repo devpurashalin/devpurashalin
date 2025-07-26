@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 
-## 👋 Hello, I'm [Shalin Devpura]!
+## 👋 Hello, I'm Shalin Devpura!
 
 I am a passionate Full Stack Developer with expertise in PHP and a variety of other technologies. I love building web applications, and continuously learning new skills.
 
